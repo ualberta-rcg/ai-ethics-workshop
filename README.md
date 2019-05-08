@@ -1,7 +1,5 @@
 ## Introduction to Artificial Intelligence and Machine Learning for the Humanities
 
-<https://ualberta-rcg.github.io/ai-ethics-workshop/>
-
 ### Getting the notebooks
 
 To get the notebooks that make up this course, either use git to clone the repository at Github:
